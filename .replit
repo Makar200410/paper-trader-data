@@ -1,0 +1,4 @@
+run = "python generator.py"
+modules = ["python-3.11"]
+
+[nix]
